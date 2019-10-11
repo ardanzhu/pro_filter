@@ -1,9 +1,8 @@
 # > Radio.com
-#Radio.com
-#USER-AGENT,Radio.com*,Radio.com
-#USER-AGENT,iHeartRadio*,Radio.com
-#USER-AGENT,CustomPlayer1*,Radio.com
-#USER-AGENT,cbs*,Radio.com
+USER-AGENT,Radio.com*,Radio.com
+USER-AGENT,iHeartRadio*,Radio.com
+USER-AGENT,CustomPlayer1*,Radio.com
+USER-AGENT,cbs*,Radio.com
 DOMAIN-SUFFIX,imrworldwide.com,Radio.com
 DOMAIN-SUFFIX,streamtheworld.com,Radio.com
 DOMAIN-SUFFIX,radio.com,Radio.com
