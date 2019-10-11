@@ -1,0 +1,18 @@
+# > Radio.com
+#Radio.com
+#USER-AGENT,Radio.com*,🇺🇸US
+#USER-AGENT,iHeartRadio*,🇺🇸US
+#USER-AGENT,CustomPlayer1*,🇺🇸US
+#USER-AGENT,cbs*,🇺🇸US
+DOMAIN-SUFFIX,imrworldwide.com,🇺🇸US
+DOMAIN-SUFFIX,streamtheworld.com,🇺🇸US
+DOMAIN-SUFFIX,radio.com,🇺🇸US
+DOMAIN-SUFFIX,urbanairship.com,🇺🇸US
+DOMAIN-SUFFIX,cbslocal.com,🇺🇸US
+DOMAIN-SUFFIX,play.it,🇺🇸US
+DOMAIN-SUFFIX,crittercism.com,🇺🇸US
+DOMAIN-SUFFIX,amazon-adsystem.com,🇺🇸US
+DOMAIN-SUFFIX,amazonaws.com,🇺🇸US
+DOMAIN-SUFFIX,quantcount.com,🇺🇸US
+DOMAIN-SUFFIX,branch.io,🇺🇸US
+DOMAIN-SUFFIX,tagstation.com,🇺🇸US
